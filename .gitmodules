@@ -8,6 +8,11 @@
 	url = https://github.com/vjcitn/anvilbilling
 	shallow = true
 	registered = true
+[submodule "BiocFHIR"]
+	path = BiocFHIR
+	url = https://github.com/vjcitn/biocfhir
+	shallow = true
+	registered = true
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/vjcitn/ontoproc

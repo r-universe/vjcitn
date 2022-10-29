@@ -3,6 +3,9 @@
     "package": "AnVILBilling"
   },
   {
+    "package": "BiocFHIR"
+  },
+  {
     "package": "ontoProc"
   }
 ]
