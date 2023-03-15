@@ -13,8 +13,28 @@
 	url = https://github.com/vjcitn/biocfhir
 	shallow = true
 	registered = true
+[submodule "BiocOncoTK"]
+	path = BiocOncoTK
+	url = https://github.com/vjcitn/bioconcotk
+	shallow = true
+	registered = true
+[submodule "BiocSklearn"]
+	path = BiocSklearn
+	url = https://github.com/vjcitn/biocsklearn
+	shallow = true
+	registered = true
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/vjcitn/ontoproc
+	shallow = true
+	registered = true
+[submodule "pogos"]
+	path = pogos
+	url = https://github.com/vjcitn/pogos
+	shallow = true
+	registered = true
+[submodule "rhdf5client"]
+	path = rhdf5client
+	url = https://github.com/vjcitn/rhdf5client
 	shallow = true
 	registered = true

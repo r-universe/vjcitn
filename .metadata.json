@@ -6,6 +6,18 @@
     "package": "BiocFHIR"
   },
   {
+    "package": "BiocOncoTK"
+  },
+  {
+    "package": "BiocSklearn"
+  },
+  {
     "package": "ontoProc"
+  },
+  {
+    "package": "pogos"
+  },
+  {
+    "package": "rhdf5client"
   }
 ]
