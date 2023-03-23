@@ -3,9 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "affyContam"]
+	path = affyContam
+	url = https://git.bioconductor.org/packages/affyContam
+	shallow = true
+	registered = true
 [submodule "AnVILBilling"]
 	path = AnVILBilling
 	url = https://github.com/vjcitn/anvilbilling
+	shallow = true
+	registered = true
+[submodule "arrayMvout"]
+	path = arrayMvout
+	url = https://git.bioconductor.org/packages/arrayMvout
 	shallow = true
 	registered = true
 [submodule "BiocFHIR"]
@@ -23,9 +33,69 @@
 	url = https://github.com/vjcitn/biocsklearn
 	shallow = true
 	registered = true
+[submodule "combinat"]
+	path = combinat
+	url = https://github.com/cran/combinat
+	shallow = true
+	registered = true
+[submodule "erma"]
+	path = erma
+	url = https://git.bioconductor.org/packages/erma
+	shallow = true
+	registered = true
+[submodule "gwascat"]
+	path = gwascat
+	url = https://git.bioconductor.org/packages/gwascat
+	shallow = true
+	registered = true
+[submodule "hmdbQuery"]
+	path = hmdbQuery
+	url = https://git.bioconductor.org/packages/hmdbQuery
+	shallow = true
+	registered = true
+[submodule "HumanTranscriptomeCompendium"]
+	path = HumanTranscriptomeCompendium
+	url = https://git.bioconductor.org/packages/HumanTranscriptomeCompendium
+	shallow = true
+	registered = true
+[submodule "ivygapSE"]
+	path = ivygapSE
+	url = https://git.bioconductor.org/packages/ivygapSE
+	shallow = true
+	registered = true
+[submodule "keggorthology"]
+	path = keggorthology
+	url = https://git.bioconductor.org/packages/keggorthology
+	shallow = true
+	registered = true
+[submodule "ldblock"]
+	path = ldblock
+	url = https://git.bioconductor.org/packages/ldblock
+	shallow = true
+	registered = true
+[submodule "MLInterfaces"]
+	path = MLInterfaces
+	url = https://git.bioconductor.org/packages/MLInterfaces
+	shallow = true
+	registered = true
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/vjcitn/ontoproc
+	shallow = true
+	registered = true
+[submodule "parglms"]
+	path = parglms
+	url = https://git.bioconductor.org/packages/parglms
+	shallow = true
+	registered = true
+[submodule "parody"]
+	path = parody
+	url = https://git.bioconductor.org/packages/parody
+	shallow = true
+	registered = true
+[submodule "pathRender"]
+	path = pathRender
+	url = https://git.bioconductor.org/packages/pathRender
 	shallow = true
 	registered = true
 [submodule "pogos"]
@@ -33,8 +103,38 @@
 	url = https://github.com/vjcitn/pogos
 	shallow = true
 	registered = true
+[submodule "RbcBook1"]
+	path = RbcBook1
+	url = https://git.bioconductor.org/packages/RbcBook1
+	shallow = true
+	registered = true
 [submodule "rhdf5client"]
 	path = rhdf5client
 	url = https://github.com/vjcitn/rhdf5client
+	shallow = true
+	registered = true
+[submodule "ROC"]
+	path = ROC
+	url = https://git.bioconductor.org/packages/ROC
+	shallow = true
+	registered = true
+[submodule "ssrch"]
+	path = ssrch
+	url = https://git.bioconductor.org/packages/ssrch
+	shallow = true
+	registered = true
+[submodule "tenXplore"]
+	path = tenXplore
+	url = https://git.bioconductor.org/packages/tenXplore
+	shallow = true
+	registered = true
+[submodule "TFutils"]
+	path = TFutils
+	url = https://git.bioconductor.org/packages/TFutils
+	shallow = true
+	registered = true
+[submodule "vtpnet"]
+	path = vtpnet
+	url = https://git.bioconductor.org/packages/vtpnet
 	shallow = true
 	registered = true
