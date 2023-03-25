@@ -118,6 +118,11 @@
 	url = https://git.bioconductor.org/packages/ROC
 	shallow = true
 	registered = true
+[submodule "scviR"]
+	path = scviR
+	url = https://github.com/vjcitn/scvir
+	shallow = true
+	registered = true
 [submodule "ssrch"]
 	path = ssrch
 	url = https://git.bioconductor.org/packages/ssrch
