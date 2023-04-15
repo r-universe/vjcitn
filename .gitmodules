@@ -108,6 +108,11 @@
 	url = https://git.bioconductor.org/packages/RbcBook1
 	shallow = true
 	registered = true
+[submodule "Rcollectl"]
+	path = Rcollectl
+	url = https://github.com/vjcitn/rcollectl
+	shallow = true
+	registered = true
 [submodule "rhdf5client"]
 	path = rhdf5client
 	url = https://github.com/vjcitn/rhdf5client
