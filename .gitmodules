@@ -2,15 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "affyContam"]
-	path = affyContam
-	url = https://git.bioconductor.org/packages/affyContam
 [submodule "AnVILBilling"]
 	path = AnVILBilling
 	url = https://github.com/vjcitn/anvilbilling
-[submodule "arrayMvout"]
-	path = arrayMvout
-	url = https://git.bioconductor.org/packages/arrayMvout
 [submodule "BiocFHIR"]
 	path = BiocFHIR
 	url = https://github.com/vjcitn/biocfhir
@@ -23,6 +17,30 @@
 [submodule "BiocSklearn"]
 	path = BiocSklearn
 	url = https://github.com/vjcitn/biocsklearn
+[submodule "HumanTranscriptomeCompendium"]
+	path = HumanTranscriptomeCompendium
+	url = https://git.bioconductor.org/packages/HumanTranscriptomeCompendium
+[submodule "MLInterfaces"]
+	path = MLInterfaces
+	url = https://git.bioconductor.org/packages/MLInterfaces
+[submodule "ROC"]
+	path = ROC
+	url = https://git.bioconductor.org/packages/ROC
+[submodule "RbcBook1"]
+	path = RbcBook1
+	url = https://git.bioconductor.org/packages/RbcBook1
+[submodule "Rcollectl"]
+	path = Rcollectl
+	url = https://github.com/vjcitn/rcollectl
+[submodule "TFutils"]
+	path = TFutils
+	url = https://git.bioconductor.org/packages/TFutils
+[submodule "affyContam"]
+	path = affyContam
+	url = https://git.bioconductor.org/packages/affyContam
+[submodule "arrayMvout"]
+	path = arrayMvout
+	url = https://git.bioconductor.org/packages/arrayMvout
 [submodule "combinat"]
 	path = combinat
 	url = https://github.com/cran/combinat
@@ -35,9 +53,6 @@
 [submodule "hmdbQuery"]
 	path = hmdbQuery
 	url = https://git.bioconductor.org/packages/hmdbQuery
-[submodule "HumanTranscriptomeCompendium"]
-	path = HumanTranscriptomeCompendium
-	url = https://git.bioconductor.org/packages/HumanTranscriptomeCompendium
 [submodule "ivygapSE"]
 	path = ivygapSE
 	url = https://git.bioconductor.org/packages/ivygapSE
@@ -47,9 +62,6 @@
 [submodule "ldblock"]
 	path = ldblock
 	url = https://git.bioconductor.org/packages/ldblock
-[submodule "MLInterfaces"]
-	path = MLInterfaces
-	url = https://git.bioconductor.org/packages/MLInterfaces
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/vjcitn/ontoproc
@@ -65,18 +77,9 @@
 [submodule "pogos"]
 	path = pogos
 	url = https://github.com/vjcitn/pogos
-[submodule "RbcBook1"]
-	path = RbcBook1
-	url = https://git.bioconductor.org/packages/RbcBook1
-[submodule "Rcollectl"]
-	path = Rcollectl
-	url = https://github.com/vjcitn/rcollectl
 [submodule "rhdf5client"]
 	path = rhdf5client
 	url = https://github.com/vjcitn/rhdf5client
-[submodule "ROC"]
-	path = ROC
-	url = https://git.bioconductor.org/packages/ROC
 [submodule "scviR"]
 	path = scviR
 	url = https://github.com/vjcitn/scvir
@@ -86,9 +89,6 @@
 [submodule "tenXplore"]
 	path = tenXplore
 	url = https://git.bioconductor.org/packages/tenXplore
-[submodule "TFutils"]
-	path = TFutils
-	url = https://git.bioconductor.org/packages/TFutils
 [submodule "vtpnet"]
 	path = vtpnet
 	url = https://git.bioconductor.org/packages/vtpnet
