@@ -17,9 +17,6 @@
 [submodule "BiocSklearn"]
 	path = BiocSklearn
 	url = https://github.com/vjcitn/biocsklearn
-[submodule "HumanTranscriptomeCompendium"]
-	path = HumanTranscriptomeCompendium
-	url = https://git.bioconductor.org/packages/HumanTranscriptomeCompendium
 [submodule "MLInterfaces"]
 	path = MLInterfaces
 	url = https://git.bioconductor.org/packages/MLInterfaces
